@@ -1,0 +1,13 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    height: 100vh;
+    margin-top: 140px;
+    background-image: linear-gradient(to bottom, rgb(199, 148, 148), rgb(201, 71, 71));
+}
+
+button {
+    width: 80px;
+}
